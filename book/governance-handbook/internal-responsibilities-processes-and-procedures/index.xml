@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economikit Alliance</title>
+    <link>https://example.com/book/governance-handbook/internal-responsibilities-processes-and-procedures/</link>
+    <description>Recent content on Economikit Alliance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://example.com/book/governance-handbook/internal-responsibilities-processes-and-procedures/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/governance-handbook/internal-responsibilities-processes-and-procedures/autonomy-accountability-and-delegated-authority/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/governance-handbook/internal-responsibilities-processes-and-procedures/autonomy-accountability-and-delegated-authority/</guid>
+      <description>Autonomy, accountability and delegated authority Lines of inquiry: what is good about sociocracy and where are its limitations?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/governance-handbook/internal-responsibilities-processes-and-procedures/meeting-and-facilitation-processes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/governance-handbook/internal-responsibilities-processes-and-procedures/meeting-and-facilitation-processes/</guid>
+      <description>Meeting and facilitation processes (to be expanded)
+ rounds in meetings beginning and ending with check-ins  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/governance-handbook/internal-responsibilities-processes-and-procedures/psychological-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/governance-handbook/internal-responsibilities-processes-and-procedures/psychological-safety/</guid>
+      <description>Psychological safety  anonymous feedback mechanisms? space for speaking about mental health issues peer support network of those offering counselling &amp;amp; mediation services  </description>
+    </item>
+    
+  </channel>
+</rss>

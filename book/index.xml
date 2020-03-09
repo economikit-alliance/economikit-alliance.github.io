@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economikit Alliance</title>
+    <link>https://example.com/book/</link>
+    <description>Recent content on Economikit Alliance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://example.com/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/governance-handbook/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/governance-handbook/code-of-conduct/</guid>
+      <description>Code of conduct Guardrails in place (needs expanding, also narration on why these things are important)
+ accountability (I answer to others)  (for those using)   Enable third-party critique    (for those building)  Governance of shared language structures for describing resources and processes What should and should not be measured? A discussion needs to be started! (#protocol-councils)     interoperability (I can speak with others)  common vocabularies (especially resource ontologies) protocol bridges data translators choice of platform (protocol, integration &amp;amp; consultation work)   accessibility (I can use it)  free as in money, free as in freedom simplicity configurability   extensibility (I can build with it)  hyper-modularity pluggability good architecture (the simplest code that can do the job)   agility (I am not attached to it)  (see &amp;lsquo;extensibility&amp;rsquo;) re-questioning appropriateness of protocol &amp;amp; technology receptivity to other protocols and technologies    Sid: I can add a few guardrails for economic design of the collective.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/governance-handbook/how-to-join-the-collective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/governance-handbook/how-to-join-the-collective/</guid>
+      <description>How to join the collective </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/strategic-direction/core-beliefs-and-principles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/strategic-direction/core-beliefs-and-principles/</guid>
+      <description>Core beliefs and principles  The future is female. We aim to embody and spread the adoption of feminine technologies, organising principles, social norms and regenerative design patterns. Real change comes organically, from the bottom upwards. It cannot be dictated, controlled or managed; it must emerge organically and fluidly. The outcomes created by an organisation are a direct consequence of its culture. Nurturing and holding space for culture are the most important and fundamental things a group can do to ensure their long-term success.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/strategic-direction/guiding-questions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/strategic-direction/guiding-questions/</guid>
+      <description>Guiding questions Strategic questions  How do we create frameworks that explicitly draw in the sociologists? How do we create frameworks that allow local inhabitants of land to own their economic independence? How do we create frameworks that allow local languages to flourish? How do we protect those with marginalised perspectives from being coerced into our ways of thinking when exposed to our technologies? How do we remove predatory actions that are associated with language and power?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/strategic-direction/high-level-project-goals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/strategic-direction/high-level-project-goals/</guid>
+      <description>High-level goals of the collective (these came from Holo-REA originally, so I expect they&amp;rsquo;ll need to be extended or massaged&amp;hellip;)
+ Enable groups of any kind to create and own their economic and social independence. Create the most powerful software available for coordinating &amp;amp; managing resources and people. Provide a base layer for a new economy that can freely transfer value within and in between communities whilst also allowing them to function autonomously and resiliently.</description>
+    </item>
+    
+  </channel>
+</rss>

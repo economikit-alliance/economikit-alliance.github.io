@@ -1,0 +1,1 @@
+'use strict';(function(){const indexCfg={split:/[^a-zа-яё0-9\w]/gi};indexCfg.doc={id:'id',field:['title','content'],store:['title','href'],};const index=FlexSearch.create('balance',indexCfg);window.bookSearchIndex=index;index.add({'id':0,'href':'/ru/','title':"Economikit Alliance",'content':""});})();

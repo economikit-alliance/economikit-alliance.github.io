@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economikit Alliance</title>
+    <link>https://example.com/book/governance-handbook/external-operating-procedures/</link>
+    <description>Recent content on Economikit Alliance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://example.com/book/governance-handbook/external-operating-procedures/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/governance-handbook/external-operating-procedures/managing-expressions-of-interest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/governance-handbook/external-operating-procedures/managing-expressions-of-interest/</guid>
+      <description>Managing expressions of interest  asking for self-directed contributions rather than dictating what is requested valuing contributions and financial compensation  </description>
+    </item>
+    
+  </channel>
+</rss>

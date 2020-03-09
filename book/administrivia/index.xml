@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economikit Alliance</title>
+    <link>https://example.com/book/administrivia/</link>
+    <description>Recent content on Economikit Alliance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://example.com/book/administrivia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/administrivia/group-members-interests-and-roles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/administrivia/group-members-interests-and-roles/</guid>
+      <description>Group members, interests and roles  Marketing: Tom, Sid Naming / branding: pospi, Jean, Sid Purpose &amp;amp; vision statement: Jean, pospi, Sid Ethical guidelines: Jean, pospi Fund management: Noah, Tom Protocol design: pospi, Bob Economics design: Bob Holochain Blog: Amanda DHT  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/administrivia/noteworthy-links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/administrivia/noteworthy-links/</guid>
+      <description>Noteworthy links Holo-REA   Holo-REA project on CoMakery (currently unlisted, needs branding)  Holo-REA documentation wiki   Sacred Capital   Sacred Capital technical documentation   InvestorEngine   Draft Management Plan   InvestorEngine CoMakery page   ValueFlows UI   ValueFlows UI project on CoMakery (currently unlisted, needs branding)  Thought: how much do we want to bite off here in terms of trying to standardise schemas?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/administrivia/responsibilities-and-points-of-authority/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/administrivia/responsibilities-and-points-of-authority/</guid>
+      <description>Software tools &amp;amp; points of authority  This Website:  pospi is admin (need more volunteers)   Editable on Github and via HackMD organisation     Loomio group :  pospi is admin (need more volunteers) data can be periodically backed up via export functionality invites are currently not enabled, but interested parties can request to join    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/book/administrivia/similar-groups-and-related-efforts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/book/administrivia/similar-groups-and-related-efforts/</guid>
+      <description>Similar groups, related efforts &amp;amp; inspirations Groups &amp;amp; organisations   The Verdun Project   Open App Ecosystem (similar umbrella organisation)  Open Cooperative Ecosystem (similar umbrella organisation with a cooperative flavour)  Scuttlebutt OpenCollective (similar funding group / OSS innovation mission)  Terran (exceptionally detailed data-driven cultural exploration work)  The Amber Initiative (fund management group interested in REA)  Hypergroove (platforms for regenerative societies built on resource flow accounting)  Distributed governance manuals &amp;amp; social architectures   https://handbook.</description>
+    </item>
+    
+  </channel>
+</rss>
