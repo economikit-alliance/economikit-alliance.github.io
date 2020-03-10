@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Economikit Alliance</title>
+    <title>Menu on Economikit Alliance</title>
     <link>https://example.com/menu/</link>
-    <description>Recent content on Economikit Alliance</description>
+    <description>Recent content in Menu on Economikit Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://example.com/menu/index.xml" rel="self" type="application/rss+xml" />
