@@ -4,12 +4,12 @@
   
   <url>
     <loc>https://example.com/book/</loc>
-    <lastmod>2020-03-09T13:50:28+10:00</lastmod>
+    <lastmod>2020-05-17T13:05:47+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/book/administrivia/</loc>
-    <lastmod>2020-03-09T13:53:16+10:00</lastmod>
+    <lastmod>2020-05-17T13:19:38+10:00</lastmod>
   </url>
   
   <url>
@@ -19,62 +19,27 @@
   
   <url>
     <loc>https://example.com/book/administrivia/noteworthy-links/</loc>
-    <lastmod>2020-03-09T13:23:08+10:00</lastmod>
+    <lastmod>2020-05-17T13:17:21+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/book/administrivia/responsibilities-and-points-of-authority/</loc>
-    <lastmod>2020-03-18T13:38:03+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/book/administrivia/similar-groups-and-related-efforts/</loc>
-    <lastmod>2020-03-09T13:23:08+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/book/governance-handbook/code-of-conduct/</loc>
-    <lastmod>2020-03-09T13:23:08+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/book/governance-handbook/external-operating-procedures/</loc>
-    <lastmod>2020-03-09T13:49:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/book/governance-handbook/external-operating-procedures/managing-expressions-of-interest/</loc>
-    <lastmod>2020-03-09T13:23:08+10:00</lastmod>
+    <lastmod>2020-05-17T13:42:52+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/book/governance-handbook/how-to-join-the-collective/</loc>
-    <lastmod>2020-03-09T13:23:08+10:00</lastmod>
+    <lastmod>2020-05-17T13:50:05+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/book/governance-handbook/internal-responsibilities-processes-and-procedures/</loc>
-    <lastmod>2020-03-09T13:49:46+10:00</lastmod>
+    <lastmod>2020-05-17T14:04:26+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/book/governance-handbook/internal-responsibilities-processes-and-procedures/autonomy-accountability-and-delegated-authority/</loc>
-    <lastmod>2020-03-09T13:23:08+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/book/governance-handbook/internal-responsibilities-processes-and-procedures/meeting-and-facilitation-processes/</loc>
-    <lastmod>2020-03-09T13:23:08+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/book/governance-handbook/internal-responsibilities-processes-and-procedures/psychological-safety/</loc>
-    <lastmod>2020-03-09T13:23:08+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/book/strategic-direction/core-beliefs-and-principles/</loc>
-    <lastmod>2020-03-09T13:23:08+10:00</lastmod>
+    <loc>https://example.com/book/strategic-direction/accountability-guardrails/</loc>
+    <lastmod>2020-05-17T13:11:48+10:00</lastmod>
   </url>
   
   <url>
@@ -84,12 +49,17 @@
   
   <url>
     <loc>https://example.com/book/strategic-direction/high-level-project-goals/</loc>
-    <lastmod>2020-03-09T13:23:08+10:00</lastmod>
+    <lastmod>2020-05-17T13:43:20+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/book/strategic-direction/similar-groups-and-related-efforts/</loc>
+    <lastmod>2020-05-17T13:19:38+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2020-03-18T13:43:22+10:00</lastmod>
+    <lastmod>2020-05-17T14:04:26+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -109,7 +79,7 @@
   
   <url>
     <loc>https://example.com/menu/</loc>
-    <lastmod>2020-03-09T14:47:12+10:00</lastmod>
+    <lastmod>2020-05-17T14:04:26+10:00</lastmod>
   </url>
   
 </urlset>

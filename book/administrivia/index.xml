@@ -26,7 +26,7 @@ You can find some of us on Twitter, too!
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/book/administrivia/noteworthy-links/</guid>
-      <description>Noteworthy links Holo-REA   Holo-REA project on CoMakery (currently unlisted, needs branding)  Holo-REA documentation wiki   Sacred Capital   Sacred Capital technical documentation   InvestorEngine   Draft Management Plan   InvestorEngine CoMakery page   ValueFlows UI   ValueFlows UI project on CoMakery (currently unlisted, needs branding)  Thought: how much do we want to bite off here in terms of trying to standardise schemas?</description>
+      <description>Noteworthy links Holo-REA   Github project   Documentation wiki   CoMakery listing   Sacred Capital   Website   Technical documentation   ValueFlows UI   Github project   CoMakery listing   Holochain open dev   Github org   </description>
     </item>
     
     <item>
@@ -35,16 +35,7 @@ You can find some of us on Twitter, too!
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/book/administrivia/responsibilities-and-points-of-authority/</guid>
-      <description>Software tools &amp;amp; points of authority  This Website:  Editable on Github and via HackMD organisation    pospi and Siddharth are Github admins (able to publish the website) pospi and Siddharth are HackMD admins (able to invite new co-authors &amp;amp; collaborators)    Loomio group :  pospi and Siddharth are admins data can be periodically backed up via export functionality invites are currently not enabled, but interested parties can request to join    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/book/administrivia/similar-groups-and-related-efforts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/book/administrivia/similar-groups-and-related-efforts/</guid>
-      <description>Similar groups, related efforts &amp;amp; inspirations Groups &amp;amp; organisations   The Verdun Project   Open App Ecosystem (similar umbrella organisation)  Open Cooperative Ecosystem (similar umbrella organisation with a cooperative flavour)  Scuttlebutt OpenCollective (similar funding group / OSS innovation mission)  Terran (exceptionally detailed data-driven cultural exploration work)  The Amber Initiative (fund management group interested in REA)  Hypergroove (platforms for regenerative societies built on resource flow accounting)  Distributed governance manuals &amp;amp; social architectures   https://handbook.</description>
+      <description>Software tools &amp;amp; points of authority  This Website:  Editable on Github and via HackMD organisation    pospi and Siddharth are Github admins (able to publish the website) pospi and Siddharth are HackMD admins (able to invite new co-authors &amp;amp; collaborators)    Loomio group :  pospi and Siddharth are admins data can be periodically backed up via export functionality interested parties can request to join via Loomio   Telegram group:  pospi and Sid are admins admins responsible for adding new members after Loomio onboarding    </description>
     </item>
     
   </channel>
