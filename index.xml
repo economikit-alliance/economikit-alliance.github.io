@@ -1,88 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Economikit Alliance</title>
-    <link>https://example.com/</link>
-    <description>Recent content in Homepage on Economikit Alliance</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <title>Economikit Alliance</title>
+    <link>https://economikit.org/</link>
+    <description>Recent content on Economikit Alliance</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://economikit.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/book/administrivia/group-members-interests-and-roles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://economikit.org/how-we-work/engagement-criteria/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/book/administrivia/group-members-interests-and-roles/</guid>
-      <description>Group members, interests and roles This page needs some proper background information on all of us. In the meantime, you can find active members of our group listed in the Economikit Loomio org .
-You can find some of us on Twitter, too!
- https://twitter.com/pospigos https://twitter.com/sidsthalekar https://twitter.com/emalinus4 https://twitter.com/NurtureGirl https://twitter.com/fer_ananda https://twitter.com/noahthorp  </description>
+      <guid>https://economikit.org/how-we-work/engagement-criteria/</guid>
+      <description>Engagement criteria [TOC]
+ For a contextual overview of the reasoning behind this document, see our piece on Considerations for a Robust Ethic.
+ Goal anchors These define our aims, hopes and dreams; and thus, the kinds of groups we are seeking to collaborate with. The guiding questions we used to light our way began simply:
+ What anchors or waypoints help us make coherent decisions about who to align with or what to work on?</description>
+    </item>
+    
+    <item>
+      <title>The Context - Why?</title>
+      <link>https://economikit.org/blog/2021/05/the-context-why/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://economikit.org/blog/2021/05/the-context-why/</guid>
+      <description>&lt;p&gt;The following attempts to distill the shared context we have developed over the last year and a half. The guiding question motivating this work is, &amp;ldquo;what is it about the confluence of digital technology and global economic circuits that needs to change?&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/book/administrivia/noteworthy-links/</link>
+      <link>https://economikit.org/homepage/01-intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/book/administrivia/noteworthy-links/</guid>
-      <description>Noteworthy links Holo-REA   Github project   Documentation wiki   CoMakery listing   Sacred Capital   Website   Technical documentation   ValueFlows UI   Github project   CoMakery listing   Holochain open dev   Github org   </description>
+      <guid>https://economikit.org/homepage/01-intro/</guid>
+      <description>We are an allied group of intersectional strategists, ethicists, cultural anthropologists and software creators.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/book/administrivia/responsibilities-and-points-of-authority/</link>
+      <link>https://economikit.org/homepage/02-how-we-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/book/administrivia/responsibilities-and-points-of-authority/</guid>
-      <description>Software tools &amp;amp; points of authority  This Website:  Editable on Github and via HackMD organisation    pospi and Siddharth are Github admins (able to publish the website) pospi and Siddharth are HackMD admins (able to invite new co-authors &amp;amp; collaborators)    Loomio group :  pospi and Siddharth are admins data can be periodically backed up via export functionality interested parties can request to join via Loomio   Telegram group:  pospi and Sid are admins admins responsible for adding new members after Loomio onboarding    </description>
+      <guid>https://economikit.org/homepage/02-how-we-work/</guid>
+      <description>How we work Presenting a vision of stewardship for the Holochain ecosystem and its intersection with other projects promoting justice and autonomy from systems of economic oppression.
+Read our engagement criteria.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/book/governance-handbook/how-to-join-the-collective/</link>
+      <link>https://economikit.org/homepage/03-what-we-are-creating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/book/governance-handbook/how-to-join-the-collective/</guid>
-      <description>How to join the collective  Check out our bios to get a sense of who we are, and explore our Loomio group to see what we&amp;rsquo;re doing. If you like us and want to chat more, just send a request to join on Loomio. This will send us an email, and we&amp;rsquo;ll be in touch. We&amp;rsquo;ll send you an invite to a periodical collective video call. Whoever is on the call will greet you and ask you to tell a story about how you came to be here.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/book/strategic-direction/accountability-guardrails/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/book/strategic-direction/accountability-guardrails/</guid>
-      <description>Accountability guardrails  [name=pospi] Todo: needs expanding, also narration on why these things are important
-  accountability (I answer to others)  (for those using)   Enable third-party critique    (for those building)  Governance of shared language structures for describing resources and processes What should and should not be measured? A discussion needs to be started! (#protocol-councils)     interoperability (I can speak with others)  common vocabularies (especially resource ontologies) protocol bridges data translators choice of platform (protocol, integration &amp;amp; consultation work)   accessibility (I can use it)  free as in money, free as in freedom simplicity configurability   extensibility (I can build with it)  hyper-modularity pluggability good architecture (the simplest code that can do the job)   agility (I am not attached to it)  (see &amp;lsquo;extensibility&amp;rsquo;) re-questioning appropriateness of protocol &amp;amp; technology receptivity to other protocols and technologies     [name=Sid] I can add a few guardrails for economic design of the collective.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/book/strategic-direction/guiding-questions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/book/strategic-direction/guiding-questions/</guid>
-      <description>Guiding questions Strategic questions  How do we create frameworks that explicitly draw in the sociologists? How do we create frameworks that allow local inhabitants of land to own their economic independence? How do we create frameworks that allow local languages to flourish? How do we protect those with marginalised perspectives from being coerced into our ways of thinking when exposed to our technologies? How do we remove predatory actions that are associated with language and power?</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/book/strategic-direction/high-level-project-goals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/book/strategic-direction/high-level-project-goals/</guid>
-      <description>High-level goals of the collective  [name=pospi] Todo: these came from Holo-REA originally, so I expect they&amp;rsquo;ll need to be extended or massaged&amp;hellip;
-  Enable groups of any kind to create and own their economic and social independence. Create the most powerful software available for coordinating &amp;amp; managing resources and people. Provide a base layer for a new economy that can freely transfer value within and in between communities whilst also allowing them to function autonomously and resiliently.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/book/strategic-direction/similar-groups-and-related-efforts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/book/strategic-direction/similar-groups-and-related-efforts/</guid>
-      <description>Similar groups, related efforts &amp;amp; inspirations Groups &amp;amp; organisations   Open App Ecosystem (similar umbrella organisation)  Open Cooperative Ecosystem (similar umbrella organisation with a cooperative flavour)  Scuttlebutt OpenCollective (similar funding group / OSS innovation mission)  Terran (exceptionally detailed data-driven cultural exploration work)  The Amber Initiative (fund management group interested in REA)  Hypergroove (platforms for regenerative societies built on resource flow accounting)  Distributed governance manuals &amp;amp; social architectures   https://handbook.</description>
+      <guid>https://economikit.org/homepage/03-what-we-are-creating/</guid>
+      <description>What we are creating We build tools which provision for the necessities of life whilst making possible complex cross-cultural intersections and humane and vibrant modes of relating, exchanging, and caring for self, other, and community.
+Tools for economic autonomy ValueFlows A new sociopolitical order needs not just a new economic system, but a new measurement system. The ValueFlows protocol reimagines accounting as a rich multidimensional weave of attributable information that can be deeply representative of reality, whilst GraphQL brings these possibilities to the next generation of distributed computing.</description>
     </item>
     
   </channel>

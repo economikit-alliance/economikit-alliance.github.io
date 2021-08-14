@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Economikit Alliance</title>
+    <link>https://economikit.org/tags/</link>
+    <description>Recent content in Tags on Economikit Alliance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://economikit.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>context</title>
+      <link>https://economikit.org/tags/context/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://economikit.org/tags/context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>questions</title>
+      <link>https://economikit.org/tags/questions/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://economikit.org/tags/questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>strategy</title>
+      <link>https://economikit.org/tags/strategy/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://economikit.org/tags/strategy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

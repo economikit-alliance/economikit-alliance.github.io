@@ -1,0 +1,94 @@
+#ek-header {
+  position: fixed;
+  z-index: 1;
+  pointer-events: none;
+  width: 255px;
+  transform: translateY(-20px);
+}
+
+.ek-text, #graphic-ek {
+  fill: none;
+  filter: drop-shadow(0px 0px 2px rgba(0,0,0,0.3));
+  position: absolute;
+}
+.ek-text, .ek-graphic svg {
+  pointer-events: all;
+  width: 100%;
+  max-height: 100vh;
+  top: 20px;
+  left: 10px;
+  transition: all 500ms 200ms;
+}
+#ek-header.inited {
+  transition: all 500ms 200ms;
+}
+#ek-header.mini .ek-graphic svg {
+  margin-left: -10px;
+}
+#ek-header.maxi.home {
+  margin-left: calc(50vw - 112px);
+}
+#ek-header.mega {
+  width: 34vw;
+  margin-left: 33vw;
+  transform: translateY(0);
+}
+
+.ek-path{
+    stroke: black;
+}
+
+#path1560{
+    fill: var(--c2) !important;
+}
+
+#rect1772{
+    fill: var(--c1) !important;
+    z-index: 2;
+    position: fixed;
+}
+
+#rect1772-4{
+    fill: var(--c2) !important;
+    z-index: 2;
+    position: fixed;
+}
+
+#path1877{
+    fill: var(--c1) !important;
+    z-index: 2;
+    position: fixed;
+}
+
+#path1877-8{
+    fill: var(--c2) !important;
+    z-index: 2;
+    position: fixed;
+}
+
+#text1451{
+    transition: opacity 300ms 400ms;
+}
+
+#e { 
+    fill: url(#radialGradient1); 
+    z-index: 4;
+    }
+    .stopG1_1 { stop-color: var(--c1); }
+    .stopG1_2 { stop-color: var(--c2); }
+
+#i1 { fill: var(--c1); }
+
+@media (max-width: 1024px) {
+  #ek-header.mini, #ek-header.maxi, #ek-header.maxi.home {
+    width: 204px;
+  }
+  #ek-header.maxi.home {
+    margin-left: calc(50vw - 102px);
+  }
+
+  #ek-header.mega {
+    margin-left: calc(50vw - 160px);
+    width: 300px;
+  }
+}

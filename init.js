@@ -1,0 +1,2 @@
+import{r as s}from"./ek-logo-c5545f66.js";function i(){s(18e3,3,2e3)}i(),setInterval((()=>{i()}),18e3);const e=document.getElementById("text1451"),t=document.getElementById("ek-header"),l=window.onscroll||function(){};function n(s){window.scrollY<30?(e.classList.remove("invisible"),t.classList.remove("mini"),t.classList.add("maxi"),e.classList.add("visible")):(e.classList.remove("visible"),t.classList.add("mini"),t.classList.remove("maxi"),e.classList.add("invisible")),l(s)}n(),t.classList.add("inited"),window.onscroll=n;
+//# sourceMappingURL=init.js.map
