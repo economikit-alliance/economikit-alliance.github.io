@@ -1,57 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Economikit Alliance</title>
-    <link>https://economikit.org/</link>
-    <description>Recent content on Economikit Alliance</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://economikit.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Engagement Criteria</title>
-      <link>https://economikit.org/how-we-work/engagement-criteria/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://economikit.org/how-we-work/engagement-criteria/</guid>
-      <description>What anchors or waypoints help us make coherent decisions about who to align with or what to work on?</description>
-    </item>
-    
-    <item>
-      <title>The Context - Why?</title>
-      <link>https://economikit.org/blog/2021/05/the-context-why/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://economikit.org/blog/2021/05/the-context-why/</guid>
-      <description>&lt;p&gt;The following attempts to distill the shared context we have developed over the last year and a half. The guiding question motivating this work is, &amp;ldquo;what is it about the confluence of digital technology and global economic circuits that needs to change?&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://economikit.org/homepage/01-intro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://economikit.org/homepage/01-intro/</guid>
-      <description>We are an allied group of intersectional strategists, ethicists, cultural anthropologists and software creators.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://economikit.org/homepage/02-how-we-work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://economikit.org/homepage/02-how-we-work/</guid>
-      <description>How we work Presenting a vision of stewardship for the Holochain ecosystem and its intersection with other projects promoting justice and autonomy from systems of economic oppression.
-Read our engagement criteria.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://economikit.org/homepage/03-what-we-are-creating/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://economikit.org/homepage/03-what-we-are-creating/</guid>
-      <description>What we are creating We build and consult on the use of software tools which provision for the necessities of life whilst making possible complex cross-cultural intersections and humane and vibrant modes of relating, exchanging, and caring for self, other, and community.
-Tools for economic autonomy ValueFlows Meeting the challenges of our times requires not just a new economic system, but a new vocabulary to enable it. ValueFlows reimagines accounting as the tracking and coordination of production, distribution, and exchange of all kinds of resources; from goods and services and energy, to knowledge, to currencies, to &amp;ldquo;current-sees&amp;quot;; in motion in fractal P2P economic networks.</description>
-    </item>
-    
+    <title>bios on Economikit Alliance</title>
+    <link>https://economikit.org/tags/bios/</link>
+    <description>Recent content in bios on Economikit Alliance</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://economikit.org/tags/bios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emaline Friedman</title>
       <link>https://economikit.org/about-us/emaline/</link>

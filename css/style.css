@@ -71,8 +71,19 @@ main{
     grid-gap: 3vw;
 }
 
-.home-section{
+.home-section, .bio-section {
     grid-column: 2;
+}
+
+.bio-section {
+  clear: both;
+  margin: 5em 0;
+}
+
+.bio-section img {
+  max-width: 10em;
+  float: right;
+  margin: 0 0 1em 1em;
 }
 
 main section{
@@ -308,14 +319,14 @@ footer{
     z-index: -1;
 }
 
-#toPost{
+.toPost{
     display: grid;
     grid-template-columns: max-content 1fr;
     grid-column-gap: calc(6px + 1vw);
     margin-bottom: 2em;
 }
 
-#postTitle{
+.postTitle{
     grid-column: 2;
     grid-row: 3;
     font-size: 2em;
@@ -327,7 +338,7 @@ footer{
     width: 100%;
 }
 
-#postYear{
+.postYear{
     border-right: 3px solid var(--c2);
     color: var(--c2);
     width: 100%;
@@ -344,29 +355,29 @@ footer{
     font-family: 'Karrik', sans-serif;
 }
 
-#postDate{
+.postDate{
     color: var(--c2);
     font-size: 1.3em;
     text-shadow: 0px 0px 4px rgba(0,0,0,0.3);
 }
 
-#dateANDtagsContainer{
+.dateANDtagsContainer{
     display: grid;
     grid-row: 1;
     grid-template-columns: max-content 2fr;
 }
 
-#postTitle{
+.postTitle{
     grid-row: 2;
 }
 
-#postDescription{
+.postDescription{
     grid-row: 4;
     margin-top: 0.5em;
     min-height: 3em;
 }
 
-#postTags{
+.postTags{
     display: flex;
     justify-content: end;
     grid-auto-rows: auto;
