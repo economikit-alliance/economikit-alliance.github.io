@@ -335,7 +335,6 @@ footer{
     padding-bottom: 0.2em;
     text-decoration: none;
     border-bottom: 3px solid var(--c1);
-    width: 100%;
 }
 
 .postYear{
@@ -422,6 +421,13 @@ footer{
   padding: 0;
   width: 1px;
   white-space: nowrap;
+}
+
+@media (max-width: 1024px) {
+  main , #wrapperList{
+    display: block;
+  }
+  #postList, #headerList { margin: 0 10px; }
 }
 
 @media (max-width: 720px) {
