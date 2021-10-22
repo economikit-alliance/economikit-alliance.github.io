@@ -73,6 +73,7 @@ main{
 
 .home-section, .bio-section {
     grid-column: 2;
+    padding: 0em 0.3em;
 }
 
 .bio-section {
@@ -96,10 +97,11 @@ main p{
 
 #Intro {
   margin-top: 40vh;
-  margin-bottom: 60vh;
-  font-size: clamp(1.5em, 3vw, 3em);
+  margin-bottom: 35vh;
+  font-size: clamp(1.5em, 4vw, 3em);
   text-align: center;
   z-index: 2;
+  padding: 0em 0.3em;
 }
 
 #bgIntro, #bgIntroSingle{
@@ -116,6 +118,11 @@ main p{
 #bgIntroSingle{
     height: 230px;
 }
+
+ul li::marker{
+    color: var(--c1);
+}
+
 
 .icon{ 
     height: 0.8em; 
@@ -135,9 +142,10 @@ main p{
 }
 
 .contact{
-    margin-top: 1vw;
-    margin-left: 3vw;
+    margin-top: 2vw;
+    margin-left: 2vw;
     display: inline-block;
+    margin-bottom: 4vw;
 }
 
 .icon-footer{
@@ -176,10 +184,11 @@ main p{
 .home-section h2 {
   text-align: center;
   line-height: 1.3em;
-  margin-top: 5em;
+  margin-top: 3em;
 }
 .home-section h3 {
   line-height: 1.3em;
+  margin-top: 3em;
 }
 .home-section h4 {
   font-size: 1.2em;
@@ -199,6 +208,7 @@ h1{
 #content{
     font-size: 1.1em;
     line-height: 1.4em;
+    padding: 0 0.3em;
 }
 
 #meta{
@@ -212,6 +222,7 @@ h1{
 
 #singleTitle{
     margin-top: 400px;
+    padding: 0 0.2em;
 }
 
 #singleTags li{
@@ -274,7 +285,7 @@ a:hover{
     font-size: clamp(1.2em, 2.2vh, 1.5em); 
     margin-left: 1vw;
     line-height: 2.6em;
-    padding: 0.4em 1em 0.5em 1vw;
+    padding: 0.4em 1em 0.5em 0.5vw;
     cursor: pointer;
     color: var(--main);
 }
@@ -291,6 +302,7 @@ footer{
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: max-content 1fr;
+    margin-top: 120px;
 }
 
 #headerList header h1{
@@ -427,39 +439,58 @@ footer{
   main , #wrapperList{
     display: block;
   }
-  #postList, #headerList { margin: 0 10px; }
+  #postList, #headerList { margin: 0 10px 0 0; }
+
+  #Intro{
+      margin-bottom: 50vh;
+  }
 }
 
 @media (max-width: 720px) {
 
-    #postTitle{
+    #Intro{
+        margin-bottom: 45vh;
+    }
+
+    .postTitle{
         font-size: 1.5em;
         grid-row: 1;
         margin-top: 0px;
         margin-bottom: 0.2em;
     }
 
-    #dateANDtagsContainer{
+    .dateANDtagsContainer{
         grid-row: 2;
     }
 
-    #postYear{
+    .postYear{
         font-size: 1em;
     }
 
-    #postDate{
+    .postDate{
         font-size: 1em;
         grid-column: 1 / -1;
     }
 
-    #postTags{
+    .postTags{
         margin-top: 12px;
         display: inline-block;
         grid-column: 1 / -1;
         padding-left: 0px !important;
     }
 
-    #postTags a{
+    .postTags a{
         font-size: 0.8em;
+    }
+
+    .bio-section img {
+        max-width: 40%;
+    }
+}
+
+@media (max-width: 420px) {
+
+    #Intro{
+        margin-bottom: 30vh;
     }
 }
